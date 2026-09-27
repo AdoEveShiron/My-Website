@@ -35,3 +35,5 @@ Screenshot:
 
 ## Summary
 In this assignment I practiced building layouts with Flexbox and CSS Grid instead of floats. The navbar and card row were pretty straightforward with Flexbox, especially using justify-content and gap for spacing. The grid layout task took a bit more time because I had to understand how grid-template-areas connects to the actual HTML elements. The image gallery hover effect was fun to figure out, using position: relative/absolute for the caption overlay. Overall, Flexbox felt more natural for one-dimensional layouts (like a row of items), while Grid was better for structuring the whole page with multiple sections at once.
+
+link: https://adoeveshiron.github.io/My-Website/
